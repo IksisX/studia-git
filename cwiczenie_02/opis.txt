@@ -2,3 +2,4 @@
 Numer indeksu: 357452
 Zmiana na master do konfliktu
 Zmiana przygotowana do stash
+Pokazanie git diff i amend
